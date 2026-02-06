@@ -4,16 +4,27 @@
     <a class="flex" href="{{site.baseurl}}/" aria-label="Andres Chacon - Developer">
       <img src="{{site.logo | relative_url}}" alt="webpage logo" class="block h-8 w-auto">
       <p class="pl-4 hidden md:block text-lg font-bold">{{site.title}} <span
-          class="text-mulish text-sm font-normal">~{{page.url}}</span>
+          class="text-mulish text-sm font-normal">
+          {%- assign nav_category = page.categories | first -%}
+          {%- if nav_category -%}
+            ~{{ nav_category }}
+          {%- elsif current_layout == 'blog' or current_layout == 'post' -%}
+            ~Blog
+          {%- endif -%}
+        </span>
       </p>
     </a>
 
     <div class="flex divide-x">
-      {% for page in site.pages %}
-      {% if page.nav %}
-      <div><a class="px-4 hover:underline {% if page.url == current_page_url %}font-bold{% endif %}"
-          href="{{ page.url | relative_url }}">{{ page.title | default: page.name }}</a></div>
-      {% endif%}
+      {%- assign current_layout = page.layout -%}
+      {% for nav_page in site.pages %}
+      {% if nav_page.nav %}
+      {% if (current_layout == 'blog' or current_layout == 'post') and (nav_page.layout == 'blog' or nav_page.layout == 'projects') %}
+      {% else %}
+      <div><a class="px-4 hover:underline {% if nav_page.url == current_page_url %}font-bold{% endif %}"
+          href="{{ nav_page.url | relative_url }}">{{ nav_page.title | default: nav_page.name }}</a></div>
+      {% endif %}
+      {% endif %}
       {% endfor %}
 
       <div class="theme-switcher">

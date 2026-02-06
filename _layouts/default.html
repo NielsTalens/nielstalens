@@ -22,6 +22,15 @@
     <script>
       document.querySelectorAll("a").forEach(function (link) {
         link.addEventListener("click", function (event) {
+          const href = link.getAttribute("href") || "";
+          const target = link.getAttribute("target");
+          const isModifiedClick = event.metaKey || event.ctrlKey || event.shiftKey || event.altKey;
+          const isSpecialScheme = href.startsWith("mailto:") || href.startsWith("tel:");
+
+          if (target === "_blank" || isModifiedClick || isSpecialScheme || link.hasAttribute("download")) {
+            return;
+          }
+
           event.preventDefault(); // Prevent the default link action temporarily
           link.classList.add("gentle-clicked");
 

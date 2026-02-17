@@ -9,13 +9,13 @@ categories: ["product ownership", "product thinking"]
 
 # The engineering workplace as a product
 
-Most companies don’t have an engineering workplace product. They have devices, policies, tooling portals, roles portals, documentation but they don’t have a product. And that distinction is crucial: the environment in which engineers work directly influences onboarding speed, security, engineer experience, and ultimately business velocity. When treating the engineering workplace as a product, everything changes.
+Most companies don’t have an engineering workplace product. They have devices, policies, tooling portals, roles portals, documentation but they don’t have a product. And that distinction is crucial: the environment in which engineers work directly influences on boarding speed, security, engineer experience, and ultimately business velocity. When treating the engineering workplace as a product, everything changes.
 
 ## Why an engineering workplace?
 In general there are a couple of subjects that prevent either software engineers, and related to the same product, security personnel to do their jobs more frictionless:
 
 For engineers, friction often starts on day one:
-- Onboarding is time-consuming and confusing
+- On boarding is time-consuming and confusing
 - Tools are scattered across different portals
 - Documentation is outdated or inconsistent
 - It’s unclear which tools are permitted
@@ -43,13 +43,13 @@ The Engineering Workplace enables engineers to create business value from day on
 If the Engineering Workplace is a product, it must have measurable outcomes. Otherwise, it remains infrastructure.
 You can distinct at least four categories:
 
-### Productivity & Onboarding Speed
+### Productivity & On boarding Speed
 The most visible impact is how quickly engineers become productive.
 
 Core metrics:
 - Time to productive environment
 - Time to first pull request
-- Onboarding duration (contract start → first merged PR)
+- On boarding duration (contract start → first merged PR)
 
 The goal:
 Reduce setup friction to near zero and enable value creation from day one.
@@ -113,8 +113,8 @@ Different engineering roles require different tool stacks, permissions, and conf
 Traditional workplaces operate in extremes: Full control (local admin, unrestricted installs) or Full restriction (locked-down environments). Neither supports modern engineering effectively. The product is designed around fine-grained controls. This creates a deliberate balance between developer experience and security.
 
 ## User flows
-From day one, the user flows are the most important artefacts. It enforces designing a system that is in essence user focussed. The most important question is 'how do we make sure our users will focus on business value adding work and not on distraction?'. For the mvp the most important user flow was first day onboarding and device switch. 
- ![Use flow: onboarding](/assets/images/engineering-workplace-user-flow.png)
+From day one, the user flows are the most important artefacts. It enforces designing a system that is in essence user focussed. The most important question is 'how do we make sure our users will focus on business value adding work and not on distraction?'. For the mvp the most important user flow was first day on boarding and device switch. 
+ ![Use flow: on boarding](/assets/images/engineering-workplace-user-flow.png)
 
 
 ## how
@@ -139,11 +139,11 @@ Provide the workplace with needed:
 - Secure installation paths
 
 No additional access requests. No manual configuration. No admin rights.
-If onboarding starts with ticket requests, the system design is incomplete.
+If on boarding starts with ticket requests, the system design is incomplete.
 Pre-provisioning shifts effort from reactive support to proactive product design.
 
-### Pattern: Invisible, Guided Onboarding
-Onboarding should feel effortless and not frustrating and confusing.
+### Pattern: Invisible, Guided On boarding
+On boarding should feel effortless and not frustrating and confusing.
 
 Engineers should not need to:
 - Search outdated documentation
@@ -171,7 +171,7 @@ When distribution is governed properly, developers remain productive without byp
 
 ### Pattern: Documentation as Executable Code
 If a configuration step can be written down, it should be scripted.
-Traditional onboarding relies on static documentation which is often outdated and inconsistent. Instead, convert setup knowledge into executable automation.
+Traditional on boarding relies on static documentation which is often outdated and inconsistent. Instead, convert setup knowledge into executable automation.
 
 By using shared inner-source repositories and task runners, engineers should be able to configure environments with a single command including all the company specific configurations and security setup.
 
@@ -200,4 +200,4 @@ And start asking:
 - “How do we design for adoption?”
 - “How do we make the secure path the easiest path?”
 
-When onboarding becomes boring because it just works, when admin rights stop being a discussion, when engineers focus on business problems instead of configuration—then the engineering workplace has become what it should be: A product that enables all other products.
+When on boarding becomes boring because it just works, when admin rights stop being a discussion, when engineers focus on business problems instead of configuration—then the engineering workplace has become what it should be: A product that enables all other products.

@@ -7,8 +7,6 @@ date: 2026-02-16T20:33:50
 categories: ["product ownership", "product thinking"]
 ---
 
-# The engineering workplace as a product
-
 Most companies don’t have an engineering workplace product. They have devices, policies, tooling portals, roles portals, documentation but they don’t have a product. And that distinction is crucial: the environment in which engineers work directly influences on boarding speed, security, engineer experience, and ultimately business velocity. When treating the engineering workplace as a product, everything changes.
 
 ## Why an engineering workplace?

@@ -4,7 +4,7 @@ title: "The importance of splitting teams (and how to)"
 image: /assets/images/pexels-mathias-pr-reding-6835322.jpeg
 slug: split-your-teams-and-how-to
 date: 2022-02-22T20:43:08
-categories: ["Uncategorized"]
+categories: ["agile"]
 ---
 You could say that I am a notorious team splitter. A fiery divider of teams, wherever I go teams end up separated. Team lumberjack could be my nickname.
 

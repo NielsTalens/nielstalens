@@ -3,7 +3,7 @@ layout: post
 title: "10 tips for creating an in company startup"
 image: /assets/images/asterix-4976983_1920.jpg
 date: 2020-07-27T16:58:32
-categories: ["Uncategorized"]
+categories: ["product ownership"]
 ---
 Enterprises, in general, are not known for their innovative capabilities or for their short times to market. Most ideas die in the 'would legal approve?', 'it is too complicated' or 'what if?' phase. The term innovation in most enterprises is an empty phrase and on one part that is a shame since they have the means to fund new propositions from which we might benefit. On the other hand, to be honest, I think it is okay. It leaves room for individuals, startups and smaller companies. Let other people have a piece of the pie also.
 

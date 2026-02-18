@@ -4,7 +4,7 @@ title: "Stop starting with Scrum"
 image: /assets/images/0.jpg
 slug: stop-starting-with-scrum
 date: 2018-06-25T22:33:38
-categories: ["agile", "scrum"]
+categories: ["agile"]
 ---
 _Don't worry: I am not going to jump on the "agile is dead and a failure" bandwagon. I do not want you to stop working with Scrum. I just want you to stop starting with it._
 

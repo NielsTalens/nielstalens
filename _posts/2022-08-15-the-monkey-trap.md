@@ -4,7 +4,7 @@ title: "The monkey trap"
 image: /assets/images/monkey.jpeg
 slug: the-monkey-trap
 date: 2022-08-15T21:37:40
-categories: ["experiment driven development", "product ownership", "project management"]
+categories: ["experiment driven development", "product ownership"]
 ---
 There is a story about some kind of monkey trap that was once used in India. There would be a hollow coconut with a small hole and some sweet rice inside. And the monkey could put their hand in the hole and grap the rice, but wouldn't be able to get out of the hole unless it would let go of the rice. And the monkeys wouldn't let go of the rice so they would be trapped. They wouldn't be trapped so much by something physical but by an idea: "You never let go of the rice".
 

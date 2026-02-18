@@ -4,7 +4,7 @@ title: "How DevOps metrics are especially helpful for non-it people"
 image: /assets/images/pexels-anna-nekrashevich-header.jpg
 slug: how-devops-metrics-are-especially-helpful-for-non-it-people
 date: 2021-03-06T22:26:35
-categories: ["Uncategorized"]
+categories: ["devops"]
 ---
 I often see that companies who create their products in an agile way are looking for ways to see how things really are going. From the start of agile software development there was a healthy suspicion in regards to metric, reports and dashboards.
 

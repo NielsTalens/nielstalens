@@ -4,7 +4,7 @@ title: "Practical shopkeeping tools for IT Management"
 image: /assets/images/pexels-cottonbro-4488639.jpeg
 slug: shopkeeping-tools-for-it-management
 date: 2021-11-09T20:34:03
-categories: ["agile", "continuous improvement", "devops", "it-management", "project management"]
+categories: ["devops"]
 ---
 IT should always serve business goals. 
 

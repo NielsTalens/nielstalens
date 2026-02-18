@@ -4,7 +4,7 @@ title: "Can you even DevOps?"
 image: /assets/images/tima-miroshnichenko.jpeg
 slug: can-you-even-devops
 date: 2021-11-12T16:55:22
-categories: ["Uncategorized"]
+categories: ["devops"]
 ---
 You might have heard the term DevOps mentioned or even work with teams that are DevOps teams. Sometimes people say they do DevOps, other times they say they are DevOps and you even hear people say that according to DevOps there is only one way of doing things.
 

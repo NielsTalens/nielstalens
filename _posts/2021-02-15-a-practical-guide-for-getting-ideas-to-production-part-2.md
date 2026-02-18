@@ -4,7 +4,7 @@ title: "A practical guide for getting ideas to production - Part 2"
 image: /assets/images/header-2.jpg
 slug: a-practical-guide-for-getting-ideas-to-production-part-2
 date: 2021-02-15T20:25:33
-categories: product ownership
+categories: ["product ownership"]
 ---
 [Part 1]({% post_url 2021-01-25-a-practical-guide-for-getting-ideas-to-production-part-1 %}) of this series was about how to get an idea worked out into artefacts. In this post I will illustrate this flow a bit more with examples. In that post I stated that **'Writing user stories is literally the least of your concerns'** because if you have a structured flow in which you describe artefacts properly the stories will come almost automatically as we can see in this post. [Part 3]({% post_url 2021-02-24-a-practical-guide-for-getting-ideas-to-production-part-3 %}) will be about translating these artefacts to the user stories and acceptance criteria.
 

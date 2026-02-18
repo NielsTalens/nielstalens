@@ -4,7 +4,7 @@ title: "Practical guide for improving software delivery in DevOps - part 1"
 image: /assets/images/dora-metrics.jpg
 slug: practical-guide-for-improving-software-delivery-in-devops-part-1
 date: 2021-05-14T17:30:22
-categories: ["continuous improvement", "devops", "dora metrics"]
+categories: ["devops"]
 ---
 In regards to the quality of both software products as devops processes there are four main metrics that can be considered to be leading:
 

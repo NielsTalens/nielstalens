@@ -1,7 +1,12 @@
 title: Niels Talens
+description: "Articles on product ownership, product thinking, and DevOps by Niels Talens."
+lang: en
+locale: en_US
+timezone: Europe/Amsterdam
 logo: /assets/images/site-images/logo.svg
 url: "https://www.nielstalens.nl"
 baseurl: ""
+permalink: /:year/:month/:day/:title:output_ext
 
 ##
 # Collections configuration
@@ -34,6 +39,7 @@ contact_channels:
 plugins:
   - jekyll-archives
   - jekyll-seo-tag
+  - jekyll-sitemap
   - jekyll-polyglot
 
 ##

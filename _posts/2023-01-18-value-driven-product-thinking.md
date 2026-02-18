@@ -22,7 +22,7 @@ When we remove all execution related subjects the, very simplified, backbone of 
 
 ![](/assets/images/simplified.jpeg)
 
-_More on this flow and how to set it up can be found here:_ [A practical guide for getting ideas to production](http://a-practical-guide-for-getting-ideas-to-production-part-1/)_._ 
+_More on this flow and how to set it up can be found here:_ [A practical guide for getting ideas to production]({% post_url 2021-01-25-a-practical-guide-for-getting-ideas-to-production-part-1 %})_. 
 
 ## How to close the feedback cycle
 
@@ -64,7 +64,7 @@ Now we'll bring it all together. The representation used above is a simplified a
 
 ![](/assets/images/on-scale-1.jpeg)
 
-All business cases and products are built around the strategy and so all gathered feedback has a direct link to the objectives from this strategy. Whenever something is not helping towards achieving strategic goals then action is needed. And nine times out of ten the solution is not writing more code. It is often things like marketing, training or [stakeholder management](https://nielstalens.nl/trainings/stakeholder-management-workshop/).
+All business cases and products are built around the strategy and so all gathered feedback has a direct link to the objectives from this strategy. Whenever something is not helping towards achieving strategic goals then action is needed. And nine times out of ten the solution is not writing more code. It is often things like marketing, training or [stakeholder management]({% post_url 2018-09-17-there-is-no-such-thing-as-the-business %}).
 
 When looking at the way this way of managing the portfolio in structured we can also clearly distinct the different levels of validation that are linked in this flow:
 
@@ -83,4 +83,3 @@ Instead of mostly having the focus on quarterly planning it's preferable that CP
 ![](/assets/images/measure.jpeg)
 
 This way the conversation within product leadership isn't so much about the progress on features but whether new functionality or changes have the desired effect regarding the reaching of business goals. And if not, it forces us to inspect and adapt.
-

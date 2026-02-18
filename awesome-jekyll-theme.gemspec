@@ -20,6 +20,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency 'jekyll-archives', '~> 2.3'
   spec.add_dependency 'jekyll-polyglot', '~> 1.9'
   spec.add_dependency 'jekyll-seo-tag', '~> 2.8.0'
+  spec.add_dependency 'jekyll-sitemap', '~> 1.4'
 
   spec.required_ruby_version = '>= 2.7.0'
 end

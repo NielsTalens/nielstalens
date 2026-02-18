@@ -28,4 +28,3 @@ In a greenfield situation you'll start on the left and work your way to the righ
 
 None of the artifacts in the flow should ever be static! Them being static means that there has been no validation.
 
-If you would like to more don't hesitate to get in touch. I can also provide a workshop based on this flow: [Product Owner workshop](http://nielstalens.nl/trainings/product-owner-workshop/)

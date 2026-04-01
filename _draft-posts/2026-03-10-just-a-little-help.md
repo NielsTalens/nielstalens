@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "just-a-little-bit-of-help"
+title: "just a little bit of help"
 image: /assets/images/record-shop.jpg 
 slug: just-a-little-bit-of-help
 date: 2026-03-10T12:33:50
@@ -29,8 +29,9 @@ While thinking about this, these lyrics popped into my head:
 Because that is what this really comes down to.
 We need a bit of help to do the thinking properly.
 Not to replace thinking, but to support it at the right moments.
+
 This is exactly the problem I am currently trying to solve by building something around it.
-I have been experimenting with 'Assisted Product Thinking', or 'Guided business goal validation', and want to share what that looks like.
+I have been experimenting with 'Assisted Product Thinking', or 'Guided business goal validation', and in this article I'll share what that looks like.
 
 ## Ever ongoing
 ## From Objectives to outcomes
@@ -68,8 +69,7 @@ Not replacing people, but supporting them with the right signals.
 ### Fundament check
 The fundament of a product and its reason to exist is stated in things like the strategic goals, business case and of course the product vision.
 
-Strategic goals - Business case
-Business case - Product Vision
+Strategic goals - Business case - Product Vision
 If these align, we know the fundament is solid.
 Borrowing from CI/CD practises, we only need to know when they no longer align.
 Only then we need to take action and make sure they will re-align.

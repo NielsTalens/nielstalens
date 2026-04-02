@@ -115,7 +115,7 @@ It might even slow down development a bit.
 Or make the agent ask more clarification questions.
 That is good. That is how you stop building the wrong thing faster.
 
-## Fattier, better or both
+## Faster, better or both
 We can now build faster than ever.
 Which is a very cool thing.
 The real question is:

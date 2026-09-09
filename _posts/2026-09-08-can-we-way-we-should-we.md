@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Can we, may we, should we?"
-image: /assets/images/record-shop.jpg 
+image: /assets/images/canwe.png
 slug: can-we-way-we-should-we
 date: 2026-09-08T12:33:50
 categories: ["product ownership", "product thinking"]
